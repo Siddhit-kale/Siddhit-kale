@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kale Siddhit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s">
-
-
 - 🔭 I’m currently working on [Cre8ive Studio](https://cre8ive-studio.vercel.app/)
 
 - 🌱 I’m currently learning **Mern Stack, Flutter**
