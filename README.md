@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kale Siddhit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
 - 🔭 I’m currently working on [Cre8ive Studio](https://cre8ive-studio.vercel.app/)
