@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kale Siddhit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16762086-Programmer-character-animation&psig=AOvVaw1ioV2agoMqWWFCnVW6T3GF&ust=1722919630720000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKDu7vOF3YcDFQAAAAAdAAAAABAV">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeFgG4rzRMjJhRwxXDxktcibPItP7XOGNaRQ&s">
 
 
 - 🔭 I’m currently working on [Cre8ive Studio](https://cre8ive-studio.vercel.app/)
