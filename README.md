@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **Apex**
+- 💬 Ask me about **Admin, Apex**
 
 - 📫 How to reach me **siddhitkale@gmail.com**
 
