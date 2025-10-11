@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif"> <br>
 - 🔭 I’m currently working on HealthSync: https://tdshealthsync.vercel.app/
 
-- 🌱 I’m currently learning **Flutter, Salesforce**
+- 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Apex**
 
 - 📫 How to reach me **siddhitkale@gmail.com**
 
